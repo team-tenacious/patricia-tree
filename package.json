@@ -1,0 +1,18 @@
+{
+  "name": "patricia-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "await-delay": "^1.0.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^8.2.1",
+    "why-is-node-running": "^2.2.0"
+  }
+}
